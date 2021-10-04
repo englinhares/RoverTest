@@ -14,7 +14,7 @@ A saída a coordenada (x,y) destino com o vetor para onde ele está se movendo, 
 
 # INSTALL
 
-git clone https://github.com/englinhares/RoverTest.git
+git clone https://github.com/englinhares/RoverTest.git <BR>
 yarn install
 
 # RUN
